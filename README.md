@@ -39,4 +39,8 @@ A **modern, eye-catching, and fast-loading** personal portfolio website built wi
       npm run build
     ```
 
+## ❤️ Contributions
+
+- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 
