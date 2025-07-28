@@ -3,7 +3,7 @@
 A **modern, eye-catching, and fast-loading** personal portfolio website built with **React**. It showcases my projects, skills, and experience in a clean and professional way. The site is fully responsive and deployed on **Vercel** for seamless performance and quick load times.
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://your-portfolio-url.vercel.app)
+🔗 [View Portfolio](https://gayan-hasantha-portfolio.vercel.app)
 
 ## ✨ Features
 - ⚡ **Fast-loading** single-page application built with React.
